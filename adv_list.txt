@@ -1,0 +1,187 @@
+ADV_LIST
+{
+	ADV
+	{
+		TYPE 1
+		DESCR "Newspaper 1"
+		AGENT_AFM "Agent AFM 02"
+		ADVTYPE_CODE 0
+		ITEM_CODE 2
+		DURATION 2
+		WORDS 300
+		PAGE 1
+		FIRST_PRICE 10.0
+		MIDDLE_PRICE 8.25
+		LAST_PRICE 4.0
+		JUSTIFICATION "A great book to read"
+	}
+	ADV
+	{
+		TYPE 1
+		DESCR "Magazine 1"
+		AGENT_AFM "Agent AFM 03"
+		ADVTYPE_CODE 2
+		ITEM_CODE 1
+		DURATION 2
+		WORDS 200
+		PAGE 2
+		FIRST_PRICE 5.0
+		MIDDLE_PRICE 3.0
+		LAST_PRICE 3.0
+		JUSTIFICATION "A great deal"
+	}
+	ADV
+	{
+		TYPE 1
+		DESCR "Magazine 2"
+		AGENT_AFM "Agent AFM 04"
+		ADVTYPE_CODE 1
+		ITEM_CODE 3
+		DURATION 2
+		WORDS 150
+		PAGE 1
+		FIRST_PRICE 6.0
+		MIDDLE_PRICE 2.0
+		LAST_PRICE 5.0
+		JUSTIFICATION "The world of fashion today"
+	}
+	ADV
+	{
+		TYPE 1
+		DESCR "Newspaper 2"
+		AGENT_AFM "Agent AFM 01"
+		ADVTYPE_CODE 1
+		ITEM_CODE 0
+		DURATION 2
+		WORDS 250
+		PAGE 3
+		FIRST_PRICE 5.0
+		MIDDLE_PRICE 4.0
+		LAST_PRICE 3.0
+		JUSTIFICATION "Awesome tech you can't miss out on"
+	}
+	ADV
+	{
+		TYPE 2
+		DESCR "Television 1"
+		AGENT_AFM "Agent AFM 03"
+		ADVTYPE_CODE 3
+		ITEM_CODE 3
+		DURATION 12
+		DUR_SEC 15
+		TIME 3
+		MORN_PRICE 10.0
+		NOON_PRICE 16.0
+		AFNOON_PRICE 12.0
+		NIGHT_PRICE 8.0
+		JUSTIFICATION "New fragrance for women"
+	}
+	ADV
+	{
+		TYPE 2
+		DESCR "Radio 1"
+		AGENT_AFM "Agent AFM 01"
+		ADVTYPE_CODE 4
+		ITEM_CODE 2
+		DURATION 13
+		DUR_SEC 15
+		TIME 1
+		MORN_PRICE 50.0
+		NOON_PRICE 40.0
+		AFNOON_PRICE 40.0
+		NIGHT_PRICE 70.0
+		JUSTIFICATION "The best seller book this month"
+	}
+	ADV
+	{
+		TYPE 2
+		DESCR "Radio 2"
+		AGENT_AFM "Agent AFM 02"
+		ADVTYPE_CODE 5
+		ITEM_CODE 1
+		DURATION 14
+		DUR_SEC 20
+		TIME 4
+		MORN_PRICE 60.0
+		NOON_PRICE 50.0
+		AFNOON_PRICE 40.0
+		NIGHT_PRICE 80.0
+		JUSTIFICATION "New board game for all ages"
+	}
+	ADV
+	{
+		TYPE 2
+		DESCR "Television 2"
+		AGENT_AFM "Agent AFM 04"
+		ADVTYPE_CODE 3
+		ITEM_CODE 3
+		DURATION 10
+		DUR_SEC 7
+		TIME 2
+		MORN_PRICE 30.0
+		NOON_PRICE 40.0
+		AFNOON_PRICE 50.0
+		NIGHT_PRICE 60.0
+		JUSTIFICATION "Giorgio Armani cologne for men"
+	}
+	ADV
+	{
+		TYPE 3
+		DESCR "Site 1"
+		AGENT_AFM "Agent AFM 01"
+		ADVTYPE_CODE 7
+		ITEM_CODE 0
+		DURATION 7
+		AUTO_ON 1
+		EXTRA_PAGES 2
+		PERDAY_PRICE 10.0
+		AUTO_PRICE 8.25
+		EXTRAPAGE_PRICE 4.0
+		JUSTIFICATION "Cutting edge technology"
+	}
+	ADV
+	{
+		TYPE 3
+		DESCR "Site 2"
+		AGENT_AFM "Agent AFM 02"
+		ADVTYPE_CODE 8
+		ITEM_CODE 1
+		DURATION 4
+		AUTO_ON 1
+		EXTRA_PAGES 2
+		PERDAY_PRICE 7.0
+		AUTO_PRICE 13.0
+		EXTRAPAGE_PRICE 5.0
+		JUSTIFICATION "All new Hasbro game provides fun for all members of the family"
+	}
+	ADV
+	{
+		TYPE 3
+		DESCR "Site 3"
+		AGENT_AFM "Agent AFM 03"
+		ADVTYPE_CODE 7
+		ITEM_CODE 2
+		DURATION 6
+		AUTO_ON 0
+		EXTRA_PAGES 3
+		PERDAY_PRICE 3.0
+		AUTO_PRICE 3.0
+		EXTRAPAGE_PRICE 7.0
+		JUSTIFICATION "You'll be hooked to this book all month"
+	}
+	ADV
+	{
+		TYPE 3
+		DESCR "Site 4"
+		AGENT_AFM "Agent AFM 04"
+		ADVTYPE_CODE 6
+		ITEM_CODE 3
+		DURATION 9
+		AUTO_ON 1
+		EXTRA_PAGES 0
+		PERDAY_PRICE 8.0
+		AUTO_PRICE 5.0
+		EXTRAPAGE_PRICE 3.0
+		JUSTIFICATION "Godly scent, for godly people"
+	}
+}

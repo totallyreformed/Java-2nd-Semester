@@ -1,0 +1,27 @@
+ITEM_LIST
+{
+	ITEM
+	{
+		CODE 1
+		DESCR "Laptop"
+		SUPPLIER_AFM "Supplier AFM 01"
+	}
+	ITEM
+	{
+		CODE 2
+		DESCR "Board Game"
+		SUPPLIER_AFM "Supplier AFM 02"
+	}
+	ITEM
+	{
+		CODE 3
+		DESCR "Book"
+		SUPPLIER_AFM "Supplier AFM 03"
+	}
+	ITEM
+	{
+		CODE 4
+		DESCR "Cologne"
+		SUPPLIER_AFM "Supplier AFM 04"
+	}
+}

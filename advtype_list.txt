@@ -1,0 +1,66 @@
+ADVTYPE_LIST
+{
+	ADVTYPE
+	{
+		TYPE 1
+		CODE 1
+		DESCR "Newspaper"
+		AGENT_AFM "Agent AFM 01"
+	}
+	ADVTYPE
+	{
+		TYPE 1
+		CODE 2
+		DESCR "Magazine"
+		AGENT_AFM "Agent AFM 02"
+	}
+	ADVTYPE
+	{
+		TYPE 1
+		CODE 3
+		DESCR "Newspaper"
+		AGENT_AFM "Agent AFM 03"
+	}
+	ADVTYPE
+	{
+		TYPE 2
+		CODE 4
+		DESCR "Television"
+		AGENT_AFM "Agent AFM 02"
+	}
+	ADVTYPE
+	{
+		TYPE 2
+		CODE 5
+		DESCR "Radio"
+		AGENT_AFM "Agent AFM 04"
+	}
+	ADVTYPE
+	{
+		TYPE 2
+		CODE 6
+		DESCR "Night TV"
+		AGENT_AFM "Agent AFM 03"
+	}
+	ADVTYPE
+	{
+		TYPE 3
+		CODE 7
+		DESCR "Internet Blog"
+		AGENT_AFM "Agent AFM 01"
+	}
+	ADVTYPE
+	{
+		TYPE 3
+		CODE 8
+		DESCR "Internet Market"
+		AGENT_AFM "Agent AFM 03"
+	}
+	ADVTYPE
+	{
+		TYPE 3
+		CODE 9
+		DESCR "Social Network"
+		AGENT_AFM "Agent AFM 04"
+	}
+}

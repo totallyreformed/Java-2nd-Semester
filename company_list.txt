@@ -1,0 +1,23 @@
+COMPANY_LIST
+{
+	COMPANY
+	{
+		AFM "Agent AFM 01"
+		NAME "TO VHMA"
+	}
+	COMPANY
+	{
+		AFM "Agent AFM 02"
+		NAME "KATHIMERINI"
+	}
+	COMPANY
+	{
+		AFM "Agent AFM 03"
+		NAME "VHMAGAZINO"
+	}
+	COMPANY
+	{
+		AFM "Agent AFM 04"
+		NAME "VOGUE"
+	}
+}
